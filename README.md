@@ -9,7 +9,7 @@
 * [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
 * [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
 * [Web性能权威指南](https://book.douban.com/subject/25856314/)
-* [深入理解JavaScript](https://book.douban.com/subject/26697422/)(在读)
+* [深入理解JavaScript](https://book.douban.com/subject/26697422/)(已读)
 * [Css揭秘](https://book.douban.com/subject/26745943/)(在读)
 * [响应式Web设计：HTML5和CSS3实战(第2版)](http://www.ituring.com.cn/book/1817)
 * [计算机是怎样跑起来的](http://www.ituring.com.cn/book/1139)
