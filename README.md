@@ -5,11 +5,12 @@
 * [三体*地球往事](https://book.douban.com/subject/2567698/)(在读)
 * [三体*黑暗森林](https://book.douban.com/subject/3066477/)(在读)
 * [三体*死神永生](https://book.douban.com/subject/5363767/)(在读)
-* [房思琪的初戀樂園](https://book.douban.com/subject/26963900/)
 * [放学后](https://book.douban.com/subject/4074636/)
 * [你不知道的JavaScript（下卷）](https://book.douban.com/subject/27620408/)(已读)
 * [指尖上行*移动前端开发进阶之路](https://book.douban.com/subject/27149862/)(已读)
-* [JavaScript框架设计 第二版](https://book.douban.com/subject/27133542/)(在读)
+* [JavaScript框架设计 第二版](https://book.douban.com/subject/27133542/)(已读)
+* [HTML5 Canvas 核心技术](https://book.douban.com/subject/24533314/)[已读]
+* [HTML5 2D 游戏编程核心技术](https://www.amazon.cn/dp/B01N6DNDG4)[在读]
 * [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
 * [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
 * [Web性能权威指南](https://book.douban.com/subject/25856314/)
