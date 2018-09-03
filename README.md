@@ -7,12 +7,12 @@
 * [JavaScript框架设计 第二版](https://book.douban.com/subject/27133542/)(已读)
 * [HTML5 Canvas 核心技术](https://book.douban.com/subject/24533314/)[已读]
 * [HTML5 2D 游戏编程核心技术](https://www.amazon.cn/dp/B01N6DNDG4)[已读]
-* [WebGL 编程指南](https://book.douban.com/subject/25909351/)[在读]
-* [3D数学基础：图形与游戏开发](https://book.douban.com/subject/1400419/)
+* [WebGL 编程指南](https://book.douban.com/subject/25909351/)[已读]
+* [3D数学基础：图形与游戏开发](https://book.douban.com/subject/1400419/)[已读]
+* [Web性能权威指南](https://book.douban.com/subject/25856314/)[在读]
+* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
 * [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
 * [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
-* [Web性能权威指南](https://book.douban.com/subject/25856314/)
-* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
 * [网络是怎样连接的](https://book.douban.com/subject/26941639/)
 * [计算机是怎样跑起来的](http://www.ituring.com.cn/book/1139)
 * [程序是怎样跑起来的](http://www.ituring.com.cn/book/1136)
