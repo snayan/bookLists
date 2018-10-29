@@ -9,7 +9,9 @@
 * [HTML5 2D 游戏编程核心技术](https://www.amazon.cn/dp/B01N6DNDG4)[已读]
 * [WebGL 编程指南](https://book.douban.com/subject/25909351/)[已读]
 * [3D数学基础：图形与游戏开发](https://book.douban.com/subject/1400419/)[已读]
-* [Web性能权威指南](https://book.douban.com/subject/25856314/)[在读]
+* [Web性能权威指南](https://book.douban.com/subject/25856314/)[已读]
+* [the swift programming language swift 4.2](https://docs.swift.org/swift-book/)[已读]
+* [Swifter - Swift 开发者必备 Tips](https://objccn.io/products/swifter-tips)[在读]
 * [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
 * [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
 * [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
