@@ -1,7 +1,22 @@
 # 书单
 记录我已经阅读或即将准备读的图书，以年为一个基本计划。
 
-## 2018 (目前计划)
+## 2019(目前计划)
+* [Swift进阶](https://objccn.io/products/advanced-swift/)[在读]
+* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
+* [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
+* [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
+* [重构 - 改善既有代码的设计](https://book.douban.com/subject/4262627/)
+* [设计模式 - 可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
+* [WebKit技术内幕](https://book.douban.com/subject/25910556/)
+* [网络是怎样连接的](https://book.douban.com/subject/26941639/)
+* [计算机是怎样跑起来的](http://www.ituring.com.cn/book/1139)
+* [程序是怎样跑起来的](http://www.ituring.com.cn/book/1136)
+* [Linux命令行大全](https://book.douban.com/subject/22226727/)
+* [鸟哥的Linux私房菜*基础学习篇](https://book.douban.com/subject/4889838/)
+* 后续看到好的再收集......
+
+## 2018 (已读)
 * [你不知道的JavaScript（下卷）](https://book.douban.com/subject/27620408/)(已读)
 * [指尖上行*移动前端开发进阶之路](https://book.douban.com/subject/27149862/)(已读)
 * [JavaScript框架设计 第二版](https://book.douban.com/subject/27133542/)(已读)
@@ -12,19 +27,8 @@
 * [Web性能权威指南](https://book.douban.com/subject/25856314/)[已读]
 * [the swift programming language swift 4.2](https://docs.swift.org/swift-book/)[已读]
 * [Swifter - Swift 开发者必备 Tips](https://objccn.io/products/swifter-tips)[已读]
-* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
-* [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
-* [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
-* [网络是怎样连接的](https://book.douban.com/subject/26941639/)
-* [计算机是怎样跑起来的](http://www.ituring.com.cn/book/1139)
-* [程序是怎样跑起来的](http://www.ituring.com.cn/book/1136)
-* [Linux命令行大全](https://book.douban.com/subject/22226727/)
-* [鸟哥的Linux私房菜*基础学习篇](https://book.douban.com/subject/4889838/)
-* [三体*地球往事](https://book.douban.com/subject/2567698/)(在读)
-* [三体*黑暗森林](https://book.douban.com/subject/3066477/)(在读)
-* [三体*死神永生](https://book.douban.com/subject/5363767/)(在读)
-* [放学后](https://book.douban.com/subject/4074636/)
-* 后续看到好的再收集......
+* [App架构 - 使用swift进行iOS架构](https://objccn.io/products/app-architecture)[已读]
+* [Swift进阶](https://objccn.io/products/advanced-swift/)[50%]
 
 ## 2017（已读）
 * [JavaScript语言精粹](https://book.douban.com/subject/11874748/)(已读)
