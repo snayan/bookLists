@@ -2,18 +2,18 @@
 记录我已经阅读或即将准备读的图书，以年为一个基本计划。
 
 ## 2019(目前计划)
-* [Swift进阶](https://objccn.io/products/advanced-swift/)[在读]
+* [Swift进阶](https://objccn.io/products/advanced-swift/)[已读]
 * [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
-* [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
-* [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
 * [重构 - 改善既有代码的设计](https://book.douban.com/subject/4262627/)
 * [设计模式 - 可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
-* [WebKit技术内幕](https://book.douban.com/subject/25910556/)
+* [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
+* [基于MVC的JavaScript Web富应用开发](https://book.douban.com/subject/10733304/)
+* [编程珠玑](https://book.douban.com/subject/3227098/)
+* [程序员修炼之道:从小工到专家](https://book.douban.com/subject/5387402/)
 * [网络是怎样连接的](https://book.douban.com/subject/26941639/)
+* [代码大全](https://book.douban.com/subject/1477390/)
 * [计算机是怎样跑起来的](http://www.ituring.com.cn/book/1139)
 * [程序是怎样跑起来的](http://www.ituring.com.cn/book/1136)
-* [Linux命令行大全](https://book.douban.com/subject/22226727/)
-* [鸟哥的Linux私房菜*基础学习篇](https://book.douban.com/subject/4889838/)
 * 后续看到好的再收集......
 
 ## 2018 (已读)
@@ -52,3 +52,8 @@
 * [CSS权威指南](https://book.douban.com/subject/2308234/)(已读)
 * [你不知道的JavaScript(上卷)](https://book.douban.com/subject/26351021/)(已读)
 * [你不知道的JavaScript(中卷)](https://book.douban.com/subject/26854244/)(已读)
+
+## pool
+* [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
+* [深入理解计算机系统](https://book.douban.com/subject/26912767/)
+* [计算机网络](https://book.douban.com/subject/26176870/)
