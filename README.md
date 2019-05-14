@@ -1,9 +1,13 @@
-# 书单
-记录我已经阅读或即将准备读的图书，以年为一个基本计划。
+# 学习计划
+记录我已经阅读或即将准备读的图书和一些课程，以年为一个基本计划。
 
 ## 2019(目前计划)
+* [见识](https://book.douban.com/subject/30144978/)[已读]
 * [Swift进阶](https://objccn.io/products/advanced-swift/)[已读]
-* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)
+* [极客时间，【数据结构和算法之美】专栏](https://time.geekbang.org/column/intro/126)[已读]
+* [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)[已读]
+* [算法图解](https://book.douban.com/subject/26979890/)[在读]
+* [数据结构与算法图解](https://book.douban.com/subject/33377417/)
 * [重构 - 改善既有代码的设计](https://book.douban.com/subject/4262627/)
 * [设计模式 - 可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
 * [编写可维护的JavaScript](https://book.douban.com/subject/21792530/)
