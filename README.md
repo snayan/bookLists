@@ -4,7 +4,7 @@
 ## 2019(目前计划)
 * [见识](https://book.douban.com/subject/30144978/)[已读]
 * [Swift进阶](https://objccn.io/products/advanced-swift/)[已读]
-* [极客时间，【数据结构和算法之美】专栏](https://time.geekbang.org/column/intro/126)[已读]
+* [【数据结构和算法之美】极客时间专栏](https://time.geekbang.org/column/intro/126)[已读]
 * [学习JavaScript数据结构与算法（第2版）](https://book.douban.com/subject/27129352/)[已读]
 * [算法图解](https://book.douban.com/subject/26979890/)[在读]
 * [数据结构与算法图解](https://book.douban.com/subject/33377417/)
