@@ -37,7 +37,7 @@
 - [x] [the swift programming language swift 4.2](https://docs.swift.org/swift-book/):ok_hand:
 - [x] [Swifter - Swift 开发者必备 Tips](https://objccn.io/products/swifter-tips):+1:
 - [x] [App 架构 - 使用 swift 进行 iOS 架构](https://objccn.io/products/app-architecture):ok_hand:
-- [x] (50%) [Swift 进阶](https://objccn.io/products/advanced-swift/):+1:
+- [] (50%) [Swift 进阶](https://objccn.io/products/advanced-swift/):+1:
 
 ## 2017
 
