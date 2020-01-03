@@ -21,8 +21,8 @@
 - [x] [React 实战进阶 45 讲](https://time.geekbang.org/course/intro/100009301):-1:
 - [x] [Flutter 核心技术与实战](https://time.geekbang.org/column/intro/100031001):ok_hand:
 - [x] [狼书(卷 1)更了不起的 Node.js](https://book.douban.com/subject/33950116/):-1:
-- [] (36%)[左耳听风](https://time.geekbang.org/column/intro/100002201):-1:
-- [] (92%)[明朝那些事儿](https://book.douban.com/subject/7163250/):+1:
+- [ ] (36%)[左耳听风](https://time.geekbang.org/column/intro/100002201):-1:
+- [ ] (92%)[明朝那些事儿](https://book.douban.com/subject/7163250/):+1:
 
 ## 2018
 
@@ -37,7 +37,7 @@
 - [x] [the swift programming language swift 4.2](https://docs.swift.org/swift-book/):ok_hand:
 - [x] [Swifter - Swift 开发者必备 Tips](https://objccn.io/products/swifter-tips):+1:
 - [x] [App 架构 - 使用 swift 进行 iOS 架构](https://objccn.io/products/app-architecture):ok_hand:
-- [] (50%) [Swift 进阶](https://objccn.io/products/advanced-swift/):+1:
+- [ ] (50%) [Swift 进阶](https://objccn.io/products/advanced-swift/):+1:
 
 ## 2017
 
