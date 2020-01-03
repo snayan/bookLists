@@ -15,12 +15,14 @@
 - [x] [学习 JavaScript 数据结构与算法（第 2 版）](https://book.douban.com/subject/27129352/):ok_hand:
 - [x] [算法图解](https://book.douban.com/subject/26979890/):ok_hand:
 - [x] [数据结构与算法图解](https://book.douban.com/subject/33377417/):ok_hand:
-- [x] [【数据结构和算法之美】极客时间专栏](https://time.geekbang.org/column/intro/126):+1:
-- [x] [【趣谈网络协议】极客时间专栏](https://time.geekbang.org/column/intro/100007101):-1:
-- [x] [【React 实战进阶 45 讲】](https://time.geekbang.org/course/intro/100009301):-1:
-- [x] [【Flutter 核心技术与实战】](https://time.geekbang.org/column/intro/100031001):ok_hand:
+- [x] [算法基础](https://book.douban.com/subject/26696971/):ok_hand:
+- [x] [数据结构和算法之美](https://time.geekbang.org/column/intro/126):+1:
+- [x] [趣谈网络协议](https://time.geekbang.org/column/intro/100007101):-1:
+- [x] [React 实战进阶 45 讲](https://time.geekbang.org/course/intro/100009301):-1:
+- [x] [Flutter 核心技术与实战](https://time.geekbang.org/column/intro/100031001):ok_hand:
 - [x] [狼书(卷 1)更了不起的 Node.js](https://book.douban.com/subject/33950116/):-1:
-- [x] (50%)[明朝那些事儿](https://book.douban.com/subject/7163250/):+1:
+- [] (36%)[左耳听风](https://time.geekbang.org/column/intro/100002201):-1:
+- [] (92%)[明朝那些事儿](https://book.douban.com/subject/7163250/):+1:
 
 ## 2018
 
